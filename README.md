@@ -1,3 +1,5 @@
+[![CI](https://github.com/Newb-idea/shower-okyu-protocol-v2/actions/workflows/blank.yml/badge.svg)](https://github.com/Newb-idea/shower-okyu-protocol-v2/actions/workflows/blank.yml)
+
 # shower-okyu-protocol-v2
 Non-profit biological self-management system using WHO standard acupoints and 48°C thermal pulses.
 
