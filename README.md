@@ -265,3 +265,26 @@ By processing food with lactic, citric, or acetic acids, plant proteins are brok
 While respecting specific preferences and philosophies (such as the aesthetics of vegan ramen), it is rational to supplement missing hardware functions with "wisdom and processing technology" to maximize biological repair efficiency.
 
 
+ヴィーガン・ギークのためのリソース補完：外部インキュベーションによる多層抽出
+Resource Supplement for Vegan Geeks: Multi-Layered Extraction via External Incubation
+1. 概要 / Overview
+ヴィーガン環境において、単胃というハードウェアの制約を克服し、自己修復スイッチ（お灸）の効果を最大化するためには、以下のプロトコルを併用することを強く推奨する。
+To overcome the hardware constraints of the monogastric system and maximize the effects of the self-healing switch (Okyu) in a vegan environment, the concurrent use of the following protocol is highly recommended.
+
+2. 外部インキュベーターとしての多層抽出 / Multi-Layered Extraction as an External Incubator
+人間が持たない「多段階発酵槽（4つの胃）」の機能を、体外の物理・化学プロセスで代行する設計思想である。
+This design philosophy substitutes the missing "multi-stage fermentation vats (four stomachs)" with external physical and chemical processes.
+
+参照リポジトリ (Reference Repository):
+Open-Layered-Extraction-Protocol: The Vegetable Incubator
+
+3. 本プロトコルの論理的必然性 / Logical Necessity of This Protocol
+プレ・ディジェスチョン（事前消化） / Pre-digestion: 植物細胞壁（セルロース）を外部の「インキュベーター」で破壊・分解し、アミノ酸や微量元素を「即時利用可能なバイナリ（抽出液）」として提供する。
+It breaks down plant cell walls (cellulose) in an external "incubator," providing amino acids and trace elements as "ready-to-use binaries (extracts)."
+
+依存関係の解決 / Dependency Resolution: 「お灸（49.0°C）」という実行命令が下った際、この抽出プロトコルによって確保された高純度なリソースがあれば、ヴィーガンのシステムでもビルドエラー（栄養不足による回復遅延）を起こさずに最速のデバッグ（治癒）が可能となる。
+When the execution command for "Okyu (49.0°C)" is issued, having high-purity resources secured by this extraction protocol allows vegan systems to achieve the fastest debugging (healing) without build errors (delayed recovery due to nutritional deficiency).
+
+4. 結論 / Conclusion
+「松葉と酸システム」に加え、このOpen-Layered-Extraction-Protocolを実装することで、ヴィーガン・ギークは自身の思想（Code of Ethics）を維持したまま、超人的な自己修復レート（Repair Rate）を手に入れることができる。
+By implementing this Open-Layered-Extraction-Protocol alongside the "Pine Needle & Acid System," vegan geeks can achieve superhuman repair rates while maintaining their personal Code of Ethics.
