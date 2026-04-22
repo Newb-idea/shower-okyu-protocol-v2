@@ -848,3 +848,150 @@ JP
 シャワーお灸がそれを動かす
 
 👉 継続が結果を生む
+
+
+📘 COMPLETE SHOWER-OKYU PROTOCOL
+完全プロトコル（初級 → 上級）
+🟢 LEVEL 1: Beginner / 初級（安全・導入）
+
+EN
+
+Temp: 40–42°C
+Time: 10–15 min
+Focus: legs → back → neck
+Goal: relaxation & circulation
+
+JP
+
+温度：40〜42℃
+時間：10〜15分
+部位：足 → 背中 → 首
+目的：リラックス・血流
+🟡 LEVEL 2: Intermediate / 中級（調整・最適化）
+
+EN
+
+Temp: 42–44°C
+Add contrast (warm/cool cycles)
+Introduce breathing control
+Target specific areas
+
+JP
+
+温度：42〜44℃
+温冷交代を導入
+呼吸と連動
+部位を絞る
+🔴 LEVEL 3: Advanced / 上級（高刺激・自己管理）
+
+EN
+
+Temp: 45°C+ (experienced users only)
+Pulse-based stimulation
+Full-body mapping (acupoints)
+Requires strict self-monitoring
+
+JP
+
+温度：45℃以上（経験者のみ）
+パルス刺激
+ツボ全体マッピング
+厳密な自己管理必須
+⚫ LEVEL 4: Expert Integration / 統合段階
+
+EN
+
+Combine with nutrition & lifestyle
+Adjust based on daily condition
+System-level self-regulation
+
+JP
+
+栄養・生活と統合
+日々の状態で調整
+システムとして扱う
+🌍 Native English Version（英語ネイティブ向け）
+What is Shower-Okyu?
+
+A self-regulation method using controlled hot water stimulation on key body areas (similar to acupoints).
+
+It combines:
+
+Thermal stimulation
+Circulation activation
+Nervous system regulation
+Why it works
+Heat improves blood flow
+Contrast (hot/cold) resets vascular response
+Targeted stimulation affects muscle tone and relaxation
+Simple Protocol
+Start with legs (circulation)
+Move to upper back (breathing support)
+Back of neck (nervous system)
+Light touch on front neck (optional)
+Finish warm (critical)
+Key Rule
+
+Stronger is NOT better.
+Consistency beats intensity.
+
+Safety First
+Avoid high heat on face and throat
+Stop immediately if pain occurs
+Beginners should stay below 42°C
+Integration
+
+Shower-Okyu = Activation
+Nutrition = Fuel
+
+Both are required for sustainable results.
+
+🔁 Flowchart / フローチャート（テキスト図解）
+■ Overall Flow / 全体フロー
+START
+ ↓
+Check condition（体調確認）
+ ↓
+Beginner or Experienced?
+ ↓
+ ├─ Beginner → Low temp (40–42°C)
+ │
+ └─ Experienced → Moderate/High temp
+ ↓
+Legs (circulation start)
+ ↓
+Back (breathing support)
+ ↓
+Neck (nervous system)
+ ↓
+Front neck (optional/light)
+ ↓
+Finish warm (38–40°C)
+ ↓
+Hydrate & rest
+ ↓
+END
+■ Safety Branch / 安全分岐
+Pain or burning?
+ ↓
+YES → STOP immediately
+ ↓
+NO → Continue
+■ Optimization Loop / 最適化ループ
+After session
+ ↓
+Check:
+- Sleep quality
+- Morning feeling
+- Fatigue
+ ↓
+Adjust next session
+■ 仕上げ（重要な一言）
+
+EN
+This is not just a technique.
+It is a self-regulation system.
+
+JP
+これは単なる手法ではなく
+👉 自己調整システムである
