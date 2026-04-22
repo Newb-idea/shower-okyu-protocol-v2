@@ -660,3 +660,191 @@ Start simple. Observe your body. Adjust gradually.
 
 JP
 シンプルに始めて、体の反応を見ながら調整する
+
+
+🍽️ Nutrition Protocol (Intermediate) / 栄養プロトコル（中級・具体版）
+■ Concept / 基本思想
+
+EN
+Upgrade from “what to eat” → “how to combine and time nutrients.”
+
+JP
+「何を食べるか」から
+👉「どう組み合わせて使うか」へ進化
+
+■ Daily Structure / 1日の基本構成
+■ Morning (Activation) / 朝（起動）
+
+EN
+
+Protein + light fats
+Examples: eggs + olive oil / yogurt + nuts
+
+👉 Stabilizes energy and nervous system
+
+JP
+
+タンパク質＋軽い脂質
+例：卵＋オリーブオイル／ヨーグルト＋ナッツ
+
+👉 エネルギー安定・神経安定
+
+■ Lunch (Main Fuel) / 昼（メイン燃料）
+
+EN
+
+Balanced meal (protein + fats + carbs)
+Examples: fish/meat + rice + vegetables
+
+👉 Supports activity and metabolism
+
+JP
+
+バランス食（タンパク質＋脂質＋炭水化物）
+例：魚・肉＋ご飯＋野菜
+
+👉 活動・代謝を支える
+
+■ Dinner (Recovery Mode) / 夜（回復モード）
+
+EN
+
+Light protein + low carb
+Avoid heavy meals
+
+👉 Improves sleep quality
+
+JP
+
+軽めのタンパク質＋低炭水化物
+食べ過ぎない
+
+👉 睡眠の質向上
+
+■ Weekly Add-ons / 週単位の調整
+
+EN
+
+Fish (omega-3) several times per week
+Fermented foods (gut support)
+Hydration consistency
+
+JP
+
+魚（オメガ3）を週数回
+発酵食品（腸内環境）
+水分を安定して摂取
+🧠 Condition-Specific Nutrition / 症状特化栄養
+😴 Sleep Apnea / Snoring Support
+
+（睡眠時無呼吸症候群・いびき軽減サポート）
+
+■ Strategy / 戦略
+
+EN
+
+Reduce inflammation
+Avoid heavy night digestion
+Support muscle tone indirectly
+
+JP
+
+炎症を抑える
+夜の消化負担を減らす
+筋機能を間接サポート
+■ Practical / 実践
+
+EN
+
+Dinner: light protein (fish, eggs)
+Avoid alcohol before sleep
+Avoid heavy carbs at night
+
+JP
+
+夜：軽いタンパク質（魚・卵）
+就寝前のアルコールNG
+夜の糖質過多を避ける
+🤧 Sinus / Allergy Support
+
+（副鼻腔炎・花粉症）
+
+■ Strategy / 戦略
+
+EN
+
+Reduce inflammatory load
+Support immune balance
+Improve fluid circulation
+
+JP
+
+炎症負荷を減らす
+免疫バランス調整
+体内循環改善
+■ Practical / 実践
+
+EN
+
+Use fish, olive oil
+Reduce excessive sugar
+Include fermented foods
+
+JP
+
+魚・オリーブオイル活用
+糖質過多を避ける
+発酵食品を取り入れる
+🔗 Integration Timing / シャワーお灸との連携
+■ Before Shower-Okyu / 実施前
+
+EN
+
+Avoid heavy meals
+Light hydration
+
+JP
+
+食べ過ぎない
+軽く水分補給
+■ After Shower-Okyu / 実施後
+
+EN
+
+Protein intake supports recovery
+Warm fluids recommended
+
+JP
+
+タンパク質補給で回復促進
+温かい飲み物が良い
+⚠️ Notes / 注意事項
+■ Individual Variation / 個人差
+
+EN
+Responses vary depending on metabolism and gut condition
+
+JP
+体質・腸内環境により効果は変わる
+
+■ Moderation / 過剰回避
+
+EN
+Avoid extreme diets or restriction
+
+JP
+極端な食事制限は避ける
+
+■ Final Integration / 最終統合
+
+EN
+Nutrition builds the system.
+Shower-Okyu activates it.
+
+Consistency creates results.
+
+JP
+栄養が身体を作り
+シャワーお灸がそれを動かす
+
+👉 継続が結果を生む
