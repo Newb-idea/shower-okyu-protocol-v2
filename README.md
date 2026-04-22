@@ -1299,3 +1299,109 @@ Disclaimer
 
 This document does not constitute medical advice.
 Users assume full responsibility for the application of this protocol.
+
+
+⚠️ Common Mistakes & Misuse Patterns
+よくある失敗・誤用パターン
+■ 1. Too Much Intensity / 強すぎる刺激
+
+EN
+Using excessive heat or too many cycles does not improve results.
+It increases risk and reduces recovery.
+
+JP
+高温や回数のやりすぎは効果を上げない。
+むしろリスクと疲労が増える。
+
+👉 Rule: Stop before overdoing it
+👉 原則：やりすぎる前に止める
+
+■ 2. Skipping the Warm Finish / 仕上げを省く
+
+EN
+Ending with cold or stopping abruptly can leave the body overstimulated.
+
+JP
+冷で終わると刺激が残り、状態が不安定になる。
+
+👉 Always finish with warm stabilization
+👉 必ず最後は温で整える
+
+■ 3. Applying Strong Heat to Sensitive Areas / 危険部位への強刺激
+
+EN
+
+Face and throat are highly sensitive
+Front of the neck requires minimal exposure
+
+JP
+
+顔・喉は高温NG
+首前は最小限に
+
+👉 Misuse here leads to the highest risk
+👉 ここが最も事故が起きやすい
+
+■ 4. Ignoring Body Feedback / 体の反応を無視
+
+EN
+Pain, dizziness, or discomfort are signals to stop immediately.
+
+JP
+痛み・めまい・違和感は即中止サイン
+
+👉 Do not push through discomfort
+👉 無理に続けない
+
+■ 5. Treating It as a Cure / 治療と誤認
+
+EN
+This protocol supports regulation but does not cure diseases.
+
+JP
+これは調整を助けるものであり、治療ではない
+
+■ 6. Lack of Consistency / 継続不足
+
+EN
+Irregular use reduces effectiveness more than low intensity.
+
+JP
+強度不足より継続不足の方が影響が大きい
+
+👉 Consistency > intensity
+👉 強さより継続
+
+■ 7. Overgeneralization / 一般化しすぎ
+
+EN
+Results from one individual may not apply to others.
+
+JP
+個人の結果は他人にそのまま当てはまらない
+
+■ 8. Ignoring Nutrition / 栄養軽視
+
+EN
+Stimulation without sufficient nutrition may limit adaptation.
+
+JP
+栄養が不足すると刺激の効果が出にくい
+
+🧭 Safe Practice Checklist / 安全チェックリスト
+Before Session / 実施前
+EN: No fatigue, no heavy meal
+JP: 疲労が強すぎない・満腹でない
+During Session / 実施中
+EN: No pain, no burning sensation
+JP: 痛み・ヒリつきがない
+After Session / 実施後
+EN: Relaxed, not overstimulated
+JP: 落ち着いている（刺激が残っていない）
+■ Final Reminder / 最後に
+
+EN
+This method works best when applied with control and awareness.
+
+JP
+この方法は「制御」と「観察」で成立する
