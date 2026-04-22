@@ -343,3 +343,163 @@ We strongly recommend selecting and combining the most appropriate tools based o
 
 [EN] Being a Wise Architect:
 "The lack of a frame is the frame itself." Being confined within the frame of a specific ideology can create biases in one's survival strategy. We encourage you to evaluate traditional wisdom and modern scientific insights with equal rigor, using your own intellect and empirical verification to proactively control your condition.
+
+
+📘 SHOWER-OKYU Protocol v2.0
+🟢 Beginner Version（初心者版）
+■ Overview / 概要
+
+EN
+This is a simplified and safe entry-level version of the SHOWER-OKYU protocol.
+It uses controlled warm water stimulation on acupoint areas to support circulation, relaxation, and self-regulation.
+
+JP
+本プロトコルは、シャワーお灸の初心者向け安全版です。
+温水刺激を用いて、血流改善・リラックス・自己調整を目的とします。
+
+■ Basic Rules / 基本ルール
+
+EN
+
+Duration: 10–15 minutes
+Temperature: 40–42°C (safe range)
+Focus: Do NOT cover whole body; use targeted areas only
+Stop before fatigue
+
+JP
+
+時間：10〜15分
+温度：40〜42℃（安全域）
+方法：全身ではなく「ポイント集中」
+原則：「やりすぎない」
+■ Step-by-Step Protocol / 手順
+① Legs (Start) / 足（スタート）
+
+EN
+Warm water (10 sec) → short cool rinse (3–5 sec) × 2–3 sets
+
+JP
+温（10秒）→ 軽く冷（3〜5秒）× 2〜3回
+
+👉 Activate circulation / 血流を起こす
+
+② Upper Back / 背中（呼吸ゾーン）
+
+EN
+Warm (10 sec) → Cool (3–5 sec) × 2–3 sets
+
+JP
+温（10秒）→ 冷（3〜5秒）× 2〜3回
+
+👉 Support breathing / 呼吸補助
+
+③ Back of Neck / 首の後ろ
+
+EN
+Warm (10 sec) → Cool (2–3 sec) × 2–3 sets
+
+JP
+温（10秒）→ 冷（2〜3秒）× 2〜3回
+
+👉 Nervous system reset / 自律神経調整
+
+④ Front of Neck (Very Gentle) / 首前（軽く）
+
+EN
+Warm only (5–10 sec × 1–2 times)
+⚠ Avoid strong heat and cold
+
+JP
+温のみ（5〜10秒 × 1〜2回）
+⚠ 強刺激・冷水は避ける
+
+⑤ Finish (Critical Step) / 仕上げ（重要）
+
+EN
+Warm (38–40°C) on back of neck for 1–2 minutes
+
+JP
+ぬるめ（38〜40℃）で首後ろを1〜2分
+
+👉 Deep relaxation / 鎮静
+
+■ Breathing Tip / 呼吸法
+
+EN
+
+During warm: slowly exhale
+During cool: briefly hold or shorten breath
+
+JP
+
+温：ゆっくり吐く
+冷：軽く止める
+⚠️ Safety & Disclaimer / 注意事項・免責
+■ 1. Self-Responsibility / 自己責任
+
+EN
+This protocol is a self-care method.
+You are fully responsible for your actions and outcomes.
+
+JP
+本プロトコルはセルフケアです。
+実施に関するすべての結果は自己責任となります。
+
+■ 2. Heat Safety / 温度安全
+
+EN
+
+DO NOT exceed safe beginner range (40–42°C)
+High temperatures may cause burns within seconds
+Stop immediately if you feel pain
+
+JP
+
+初心者は40〜42℃を超えない
+高温は数秒で火傷リスク
+痛みを感じたら即中止
+■ 3. Sensitive Areas / 注意部位
+
+EN
+
+Avoid strong heat on face and throat
+Use extreme caution on neck front
+
+JP
+
+顔・喉への高温は禁止
+首前は特に慎重に
+■ 4. Not Medical Advice / 非医療行為
+
+EN
+This is NOT medical treatment or diagnosis.
+Consult a medical professional for serious conditions.
+
+JP
+本プロトコルは医療行為ではありません。
+重篤な症状は医療機関へ。
+
+■ 5. Stop Conditions / 中止基準
+
+EN
+Stop if you experience:
+
+Pain or burning sensation
+Dizziness
+Abnormal fatigue
+
+JP
+以下の場合は中止：
+
+痛み・ヒリつき
+めまい
+異常な疲労
+■ Final Note / 最後に
+
+EN
+Start simple. Observe your body. Adjust gradually.
+
+JP
+シンプルに始めて、体の反応を見ながら調整してください。
+
+
