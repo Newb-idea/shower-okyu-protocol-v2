@@ -1405,3 +1405,150 @@ This method works best when applied with control and awareness.
 
 JP
 この方法は「制御」と「観察」で成立する
+
+
+📊 Data Logging Template
+データログテンプレ（検証用）
+■ Daily Log / 日次ログ
+Date: YYYY-MM-DD
+
+■ Condition Before / 実施前
+- Sleep quality: (1–5)
+- Fatigue level: (1–5)
+- Nasal condition: (1–5)
+- Stress level: (1–5)
+
+■ Protocol Used / 実施内容
+- Level: (Beginner / Intermediate / Advanced)
+- Duration: (minutes)
+- Temperature range: (°C)
+- Cycles: (number)
+- Areas covered: (legs / back / neck etc.)
+
+■ Nutrition / 栄養
+- Protein intake: (low / medium / high)
+- Fat intake: (type/amount)
+- Carbs: (low / medium / high)
+- Hydration: (low / adequate / high)
+
+■ During / 実施中
+- Comfort: (good / neutral / uncomfortable)
+- Any pain?: (yes/no)
+
+■ After / 実施後
+- Relaxation: (1–5)
+- Warmth feeling: (1–5)
+- Dizziness: (yes/no)
+
+■ Next Morning / 翌朝
+- Sleep quality: (1–5)
+- Wake-up feeling: (1–5)
+- Snoring (if applicable): (none / mild / strong)
+
+■ Notes / メモ
+- Any observations
+📈 Weekly Summary
+週次まとめ
+Week: YYYY-MM
+
+■ Trends / 傾向
+- Sleep: ↑ / ↓ / →
+- Fatigue: ↑ / ↓ / →
+- Nasal condition: ↑ / ↓ / →
+
+■ Best Condition Day / 最良日
+- What worked?
+
+■ Worst Condition Day / 最悪日
+- What caused it?
+
+■ Adjustments / 調整
+- Temperature:
+- Duration:
+- Frequency:
+🔁 PDCA Optimization Loop
+改善サイクル（PDCA）
+■ PLAN（計画）
+
+EN
+
+Define goal (e.g., better sleep, reduced snoring)
+Choose protocol level
+
+JP
+
+目的設定（睡眠改善・いびき軽減など）
+レベル選択
+■ DO（実行）
+
+EN
+
+Apply protocol consistently
+Log daily
+
+JP
+
+継続実施
+日次ログ記録
+■ CHECK（評価）
+
+EN
+
+Compare before/after
+Identify trends
+
+JP
+
+前後比較
+傾向確認
+■ ACT（調整）
+
+EN
+
+Adjust temperature, duration, or frequency
+Simplify if overdone
+
+JP
+
+温度・時間・頻度調整
+やりすぎなら減らす
+🎯 Optimization Rules / 最適化ルール
+■ Rule 1
+
+EN
+If overstimulated → reduce intensity
+
+JP
+刺激が強すぎる → 弱める
+
+■ Rule 2
+
+EN
+If no effect → improve consistency first
+
+JP
+効果が薄い → まず継続を見直す
+
+■ Rule 3
+
+EN
+Change only ONE variable at a time
+
+JP
+一度に変えるのは1要素だけ
+
+■ Rule 4
+
+EN
+Track at least 1 week before judging
+
+JP
+最低1週間は継続して判断
+
+■ Final Insight / 重要ポイント
+
+EN
+Without data, improvement is guesswork.
+
+JP
+データがなければ改善は勘になる
