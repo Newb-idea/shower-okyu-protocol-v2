@@ -995,3 +995,179 @@ It is a self-regulation system.
 JP
 これは単なる手法ではなく
 👉 自己調整システムである
+
+
+🧪 Evidence-Oriented README Addendum
+AI検証耐性版・補足セクション
+■ Positioning / 位置づけ
+
+EN
+This protocol is an experimental self-regulation method based on personal results and iterative refinement.
+It is not presented as a universal or medically validated solution.
+
+JP
+本プロトコルは、個人の実践と試行錯誤に基づく
+👉 実験的セルフ調整手法です。
+
+普遍的・医療的に確立されたものではありません。
+
+■ What is grounded / 根拠のある要素
+
+EN
+
+Heat improves blood circulation
+Contrast exposure affects vascular response
+Relaxation impacts autonomic balance
+
+JP
+
+温熱は血流を改善する
+温冷刺激は血管反応に影響する
+リラックスは自律神経に影響する
+■ What is exploratory / 仮説的要素
+
+EN
+
+Acupoint-based targeting as “functional nodes”
+Local heat triggering systemic repair responses
+Integration with nutrition as a unified system
+
+JP
+
+ツボを機能的ノードとする解釈
+局所刺激による全身的変化
+栄養との統合的システム
+■ Limitations / 限界
+
+EN
+
+Based on personal experimentation
+Not clinically validated
+Effects vary significantly
+
+JP
+
+個人実践ベース
+臨床検証はされていない
+効果には個人差がある
+■ Intended Use / 想定用途
+
+EN
+
+Mild conditions
+General wellness
+Self-observation and experimentation
+
+JP
+
+軽度の不調
+一般的な健康維持
+自己観察・実験
+❓ FAQ（批判対策・想定質問）
+Q1. Is this scientifically proven?
+
+科学的に証明されているのか？
+
+EN
+Not fully.
+Some elements (heat, circulation, relaxation) are well studied,
+but the full protocol is experimental.
+
+JP
+完全には証明されていません。
+温熱・血流・リラックスなどの要素は研究がありますが、
+本プロトコル全体は実験的です。
+
+Q2. Isn’t this dangerous?
+
+危険ではないのか？
+
+EN
+It can be if misused.
+That is why a beginner version and safety limits are clearly defined.
+
+JP
+誤った使い方をすれば危険です。
+そのため初心者版と安全範囲を明示しています。
+
+Q3. What about burns?
+
+火傷のリスクは？
+
+EN
+High temperatures can cause burns within seconds.
+Users must stay within safe ranges unless experienced.
+
+JP
+高温は数秒で火傷のリスクがあります。
+初心者は安全温度を守る必要があります。
+
+Q4. Why use acupoints?
+
+なぜツボなのか？
+
+EN
+Acupoints are used as practical reference locations.
+The interpretation here is functional rather than traditional.
+
+JP
+ツボは実用的な位置指標として使用しています。
+本プロトコルでは機能的な観点で扱っています。
+
+Q5. Does it cure diseases?
+
+病気は治るのか？
+
+EN
+No.
+This is not a medical treatment.
+
+JP
+治療ではありません。
+
+Q6. Why combine with nutrition?
+
+なぜ栄養と組み合わせるのか？
+
+EN
+Because stimulation without resources is limited.
+Nutrition provides the materials for adaptation.
+
+JP
+刺激だけでは限界があるためです。
+栄養が適応の材料になります。
+
+Q7. Why not just take a bath?
+
+入浴だけではダメなのか？
+
+EN
+Bathing is beneficial,
+but this protocol focuses on targeted and controlled stimulation.
+
+JP
+入浴も有効ですが、
+本プロトコルはピンポイント刺激に特徴があります。
+
+Q8. Is more intensity better?
+
+強いほど効果があるのか？
+
+EN
+No.
+Consistency and proper control are more important.
+
+JP
+違います。
+継続と適切な制御が重要です。
+
+■ Final Statement / 最終声明
+
+EN
+This is an evolving system, not a fixed doctrine.
+Feedback and critical thinking are encouraged.
+
+JP
+これは固定された理論ではなく、進化するシステムです。
+批判的思考とフィードバックを歓迎します。
+
