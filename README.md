@@ -503,3 +503,160 @@ JP
 シンプルに始めて、体の反応を見ながら調整してください。
 
 
+🍽️ Nutrition Protocol (Simple) / 栄養プロトコル（簡易版）
+■ Concept / 基本思想
+
+EN
+Nutrition provides the materials for repair and regulation.
+Shower-Okyu provides the trigger for activation.
+
+Both are required for optimal self-regulation.
+
+JP
+栄養は「修復と調整の材料」
+シャワーお灸は「起動のスイッチ」
+
+👉 両方が揃って初めて最適化が起きる
+
+■ Core Principles / 基本原則
+
+EN
+
+Eat for function, not only calories
+Combine nutrients for synergy
+Consistency over perfection
+
+JP
+
+カロリーではなく「機能」で食べる
+栄養は組み合わせで効く
+完璧より継続
+■ Basic Structure / 基本構成
+① Protein (Repair Base) / タンパク質（修復の土台）
+
+EN
+
+Combine animal + plant sources
+Examples: eggs, fish, meat, soy
+
+👉 Supports tissue repair and recovery
+
+JP
+
+動物性＋植物性を組み合わせる
+例：卵、魚、肉、大豆
+
+👉 身体の修復・再生の材料
+
+② Fats (Energy & Regulation) / 脂質（エネルギーと調整）
+
+EN
+
+Use quality fats (e.g., olive oil, MCT oil)
+Supports energy and anti-inflammatory processes
+
+JP
+
+良質な脂質を使う（オリーブオイル、MCTなど）
+エネルギー供給と炎症調整
+③ Carbohydrates (Context-Based) / 炭水化物（状況で調整）
+
+EN
+
+Adjust based on activity and condition
+Avoid excessive refined sugars
+
+JP
+
+活動量や体調に応じて調整
+精製糖質の過剰摂取を避ける
+■ Functional Eating Examples / 目的別の考え方
+● Recovery / 回復系
+
+EN
+Protein + fats → tissue repair
+
+JP
+タンパク質＋脂質 → 修復促進
+
+● Relaxation & Sleep / 睡眠・リラックス
+
+EN
+Light meal, avoid heavy intake before sleep
+
+JP
+軽めの食事、就寝前の過食を避ける
+
+● Inflammation Support / 炎症対策
+
+EN
+Use anti-inflammatory foods (e.g., olive oil, fish)
+Some studies suggest these may support inflammation balance.
+
+JP
+抗炎症作用が報告されている食品（オリーブオイル、魚など）を活用
+※炎症バランスのサポートが示唆されている
+
+■ Integration with Shower-Okyu / シャワーお灸との統合
+
+EN
+
+Nutrition = Build
+Shower-Okyu = Activate
+
+Without materials, stimulation is limited.
+Without activation, materials are underutilized.
+
+JP
+
+栄養＝作る
+シャワーお灸＝動かす
+
+材料がなければ刺激は効かない
+刺激がなければ材料は活かされない
+
+■ Timing Tip / タイミング
+
+EN
+
+Avoid heavy meals right before Shower-Okyu
+Hydrate properly
+
+JP
+
+直前の過食は避ける
+水分をしっかり取る
+⚠️ Notes / 注意事項
+■ Individual Differences / 個人差
+
+EN
+Effects vary depending on metabolism, gut condition, and lifestyle.
+
+JP
+体質・腸内環境・生活習慣により効果は異なる
+
+■ Not a Medical Diet / 非医療
+
+EN
+This is not medical nutrition therapy.
+Consult professionals if needed.
+
+JP
+医療的な栄養療法ではない
+必要に応じて専門家へ
+
+■ Balance / バランス
+
+EN
+Avoid extreme diets. Balance is key.
+
+JP
+極端な食事制限は避ける
+
+■ Final Note / まとめ
+
+EN
+Start simple. Observe your body. Adjust gradually.
+
+JP
+シンプルに始めて、体の反応を見ながら調整する
