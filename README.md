@@ -1174,7 +1174,7 @@ JP
 🧪 Shower-Okyu Protocol: A Self-Regulation Framework Based on Thermal Stimulation
 Abstract
 
-This document presents an experimental self-regulation framework, referred to as the Shower-Okyu Protocol, which utilizes controlled thermal stimulation applied to specific body regions. The approach integrates localized heat exposure, contrast hydrotherapy, and basic nutritional support to influence circulation, autonomic balance, and recovery processes.　papatoldme1000&#64;outlook.com
+This document presents an experimental self-regulation framework, referred to as the Shower-Okyu Protocol, which utilizes controlled thermal stimulation applied to specific body regions. The approach integrates localized heat exposure, contrast hydrotherapy, and basic nutritional support to influence circulation, autonomic balance, and recovery processes.　papatoldme1000 [at] outlook.com
 
 The protocol is derived from iterative personal experimentation and is not intended as a clinically validated or universally applicable intervention. Rather, it is proposed as a structured, exploratory system for self-observation and optimization.
 
