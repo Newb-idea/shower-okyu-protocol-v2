@@ -1291,7 +1291,7 @@ Its effectiveness depends on:
 
 Appropriate intensity control
 Consistent application
-Integration with broader lifestyle factors　　papatoldme1000@outlook.jp
+Integration with broader lifestyle factors　　
 
 Further investigation is required to establish its generalizability and underlying mechanisms.
 
