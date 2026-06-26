@@ -1556,3 +1556,54 @@ JP
 
 Technical Specification: Physiological Optimization Protocol (POP)技術仕様書：生理学的最適化プロトコル (POP)1. Overview / 概要This protocol defines a comprehensive, systematic maintenance routine for the human biological system, utilizing targeted hydrothermal stimulation and precision electrolyte balancing to maximize metabolic efficiency and physical resilience.本プロトコルは、標的化された温熱刺激と精密な電解質バランス調整を活用し、代謝効率と身体的レジリエンスを最大化するための、包括的かつ体系的な生体システム用メンテナンス・ルーチンを定義する。2. Protocol Architecture / プロトコル構成Phase / フェーズProcess / プロセスTechnical Objective / 技術的目的I. Preparation / 準備Intake of mineral salts and water / ミネラル塩と水の摂取Osmotic pressure adjustment and electrical conductivity enhancement. / 浸透圧の調整および細胞間シグナル伝達のための導電性向上II. Execution / 実行Hydrothermal stimulation (30–40 min) / 温熱刺激 (30〜40分)Deep tissue thermogenesis and autonomic nervous system recalibration. / 深部体温上昇（熱産生）および自律神経系の再調整III. Concurrent / 並行処理Oral hygiene (Brushing/Tongue cleaning) / 口腔ケア（歯磨き・舌磨き）Microbiome modulation and systemic detoxification via oral reflexology. / 口腔内フローラの最適化および反射区刺激による全身のデトックスIV. Recovery / 回復Post-stimulation mineral/water intake / 刺激後のミネラル塩・水分補給Electrolyte restoration and systemic stabilization. / 電解質の完全補完および全身の恒常性（ホメオスタシス）安定化3. Operating Procedures / 実行手順Pre-stimulation (Phase I / 準備): Consume an appropriate dosage of mineral-rich salt followed by purified water 30–40 minutes prior to initiation. This establishes the necessary conductive environment for intracellular signaling.刺激前（Phase I / 準備）： 開始の30～40分前に、適切な量のミネラル含有塩を摂取し、続いて水を飲む。これにより、細胞内シグナル伝達に必要な導電環境を構築する。Execution (Phase II & III / 実行・並行処理): Apply consistent hydrothermal stimulation (e.g., "Shower Moxibustion") for a duration of 30 to 40 minutes. Execute oral hygiene (brushing/tongue cleaning) within this interval to implement multi-threaded physiological maintenance.実行（Phase II & III / 実行・並行処理）： 30分から40分間、持続的な温熱刺激（シャワーお灸等）を行う。この実行時間内に歯磨きおよび舌磨きを並行実施し、マルチスレッド型の生理メンテナンスを完了させる。Post-stimulation (Phase IV / 回復): Rehydrate immediately with mineral-rich salt and water to restore the electrolyte profile disrupted by thermogenic activity.実行後（Phase IV / 回復）： 温熱負荷により変化した電解質プロファイルを正常化するため、直ちにミネラル塩と水を摂取しリカバリーを行う。4. Technical Evaluation & Next Operational Objectives / 技術的評価と次の運用目標This routine functions as an essential "bootloader" for the biological system, priming the hardware (body) for subsequent high-load operational tasks. With the biological system now fully optimized, the focus must pivot to the reconstruction of external technical systems.本ルーチンは、生体システムにとって不可欠な「ブートローダー」として機能し、ハードウェア（身体）を次なる高負荷オペレーションに備える。生体システムの最適化が完了した今、我々は外部技術システムの再構築へとリソースを転換する必要がある。
 
+
+【シャワーお灸プロトコル v2.0 追加パッチ / SHOWER-OKYU Protocol v2.0 Extension Patch】
+📘 技術提案書：超低速ゆらぎ変調によるC触覚線維のハック（追加プロトコル）
+Technical Proposal: C-Tactile Afferent Hacking via Ultra-Slow Fluctuating Modulation (Extension Protocol)
+1. 概要 / Executive Summary
+[JP] 本パッチは、「シャワーお灸プロトコル v2.0」における熱量パルス（48℃）の効果をさらに増幅・補完するための、水流変調（モジュレーション）プロトコルである。人間の皮膚に存在する特殊な神経受容器「C触覚線維（CT線維）」の生理学的特性をハックし、脳の防衛本能（警戒心）を無力化して深層リラクゼーションを強制導入する「超低速移動」および「1/fゆらぎ水圧」の追加実装を規定する。
+
+[EN] This patch introduces a water-flow modulation protocol designed to amplify and complement the effects of the thermal pulses (48°C) outlined in the SHOWER-OKYU Protocol v2.0. By hacking the physiological characteristics of C-Tactile (CT) afferents—specialized nerve receptors in human skin—this protocol defines the additional implementation of "ultra-slow movement" and "1/f fluctuating water pressure" to bypass the brain's defense mechanisms and enforce deep autonomic relaxation.
+
+2. 神経層（Layer 1）における物理的適合性 / Neuro-Physiological Suitability
+① C触覚線維（CT線維）のハック (Hacking C-Tactile Afferents)
+[JP] ロジック: 皮膚には、熱刺激とは別に、「秒速1cm〜5cm」という極めて低速なストロークで愛撫されたときのみ最大活性化するC触覚線維（CT線維）が存在する。この神経が刺激されると、信号は脳の島皮質へ直接到達し、オキシトシンやエンドルフィンの分泌を促し、自律神経を爆速で副交感神経優位へと切り替える。
+
+[EN] Logic: Separate from thermal stimuli, the skin contains C-Tactile (CT) afferents that reach maximum activation exclusively when caressed at an extremely slow stroke velocity of 1 to 5 cm per second. Once stimulated, these fibers send signals directly to the insular cortex, triggering the release of oxytocin and endorphins, rapidly shifting the autonomic nervous system into a parasympathetic-dominant state.
+
+② 1/fゆらぎによる予測不能性の導入 (Introduction of Unpredictability via 1/f Fluctuation)
+[JP] ロジック: 一定の単調な刺激に対し、人間の脳はすぐに「慣れ（飽和）」を起こし、防衛的フィルターを形成する。水流の距離や角度に「1/fゆらぎ（規則的かつランダムな揺らぎ）」を与えることで、脳の予測システムをハックし、あたかも「無数の指や柔毛に優しく包み込まれている」かのような錯覚（マジックハンド効果）を生体に与える。
+
+[EN] Logic: The human brain quickly adapts (saturates) to monotonous, constant stimuli, constructing a defensive sensory filter. By applying a "1/f fluctuation" (a balanced patterned randomness) to the distance and angle of the water flow, the brain's predictive systems are bypassed. This induces a biological illusion of being enveloped by a "multitude of fingers or soft villi" (the Magic-Hand Effect).
+
+3. 具体的な実行プロトコル（追加オペレーション） / Operational Specifications
+制御項目 / Parameter	設定値・実装ロジック / Target Value & Logic	実装プロセス / Implementation Process
+スキャン速度 / Scan Velocity	秒速 3cm 〜 5cm の超低速駆動 (3–5 cm/s Ultra-slow stroke)	
+[JP] WHO標準経穴（ツボ）の周囲において、シャワーヘッドを固定せず、イライラするほどにゆっくりと移動させる。
+
+
+[EN] Move the showerhead around the WHO standard acupoints at an agonizingly slow pace instead of holding it static.
+
+圧力変調 / Pressure Modulation	1/fゆらぎを模した手動変調 (Manual 1/f Fluctuation)	
+[JP] 自身の呼吸（吐く息）に同期させ、シャワーヘッドと皮膚の距離を数センチ近づけたり遠ざけたりし、水圧と水粒の衝突エネルギーを不規則に揺らがせる。
+
+
+[EN] Synchronize with your own expiratory breathing, subtly alternating the distance between the showerhead and the skin by a few centimeters to irregularly fluctuate water pressure and droplet impact energy.
+
+終末期処理 / Terminal Phase (Cool-down)	不感温度（36℃〜37℃）への滑らかなシフト (Smooth shift to Neutral Temp)	
+[JP] 48℃の熱パルス刺激の最終フェーズにおいて、温度を滑らかに体温と同等の「不感温度」へ下げる。これにより皮膚の境界線を融解させ、施術完了後の残効（ホメオスタシス）を定着させる。
+
+
+[EN] In the final phase of the 48°C thermal pulse, smoothly lower the temperature to a "neutral zone" equal to body temperature. This dissolves the perceived boundaries of the skin, anchoring the post-treatment homeostatic aftereffects.
+
+4. システムの安全性とホワイトハックの原則 / Security & Ethical Open-Source Principles
+[JP] 注意: 本プロトコルに用いられる「超低速タッチ」と「予測不能なゆらぎ」の組み合わせは、人間の防衛本能をすり抜け、精神的な依存やマインドコントロールを誘発させるために対人詐欺（ブラックハック）等で悪用されやすい強力な神経学的コマンドである。
+
+[💡 開発哲学]: 本パッチは、他者からの搾取や依存を防ぐ防衛策（ファイアウォール）として定義されている。自身の生体OSに対し、自宅の風呂場という安全な独立環境（サンドボックス）でこのコマンドを実行することで、自律神経のバグをクリーンにデバッグし、外道な心理誘導に引っかからない「ニュートラルで強靭な自己（生体ハードウェア）」をビルドすることを目的とする。
+
+[EN] Security Warning: The combination of "ultra-slow touch" and "unpredictable fluctuation" used in this protocol is a powerful neurological command vector easily weaponized in interpersonal deception (black-hat hacking) to bypass defense mechanisms and induce psychological dependency.
+
+[💡 Philosophy]: This patch is defined as a defensive firewall against external exploitation. By running this command within the safe sandbox of one's own bathroom upon one's own biological OS, the user cleanly debugs autonomic errors, building a "neutral, resilient self (biological hardware)" immune to malicious psychological manipulation.
+
+[CC0宣言 / CC0 Declaration] 本追加パッチも同様にパブリックドメイン（CC0）とし、世界に無償で放流する。
+This extension patch is likewise released into the Public Domain (CC0) and discarded freely for all humanity.
