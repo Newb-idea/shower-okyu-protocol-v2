@@ -1702,3 +1702,88 @@ Responsibility: You are the sole Administrator. If system stability (health) is 
 
 責任: あなたが唯一の管理者です。システム安定性（健康状態）が損なわれた場合は、直ちに「セーフモード（初心者用プロトコル）」へ戻してください。
 
+
+📘 Introduction / はじめに
+[EN] Hello everyone. This guide transforms a simple shower into a maintenance program designed to upgrade your body hardware to peak performance. We have integrated all our findings into this "Full-Stack Maintenance Guide." As the administrator of your own body, we encourage you to put this into practice.
+
+[JP] 高校生のみなさん、こんにちは。これは、ただのシャワーを「自分の体というハードウェア（機械）を最高性能に引き上げるためのメンテナンス・プログラム」に変える方法です。今回は、これまでのすべての知見を統合した「フルスタック・メンテナンス手順書」を作成しました。自分の体の「管理者」として、ぜひ実践してみてください。
+
+🚿 SHOWER-OKYU: Full-Stack Maintenance Guide (Complete Edition)
+シャワーお灸：フルスタック・メンテナンス完全手順書
+🛡️ Concept: Rebooting Your Body OS
+🛡️ コンセプト：身体というOSの再起動
+[EN] Your body is a precision machine. This protocol uses thermal energy and neural feedback to reboot your system. By following these steps, you can manage your own condition.
+[JP] 君たちの体は精密な機械です。このプロトコルは、熱エネルギーと神経への指令を使い、君たちの身体システムを強制的に「再起動（リブート）」させるためのプログラムです。これを実行することで、君たちは自分の体調を「自分で」コントロールできるようになります。
+
+🟢 Phase 0: Pre-Session (Conductive Load)
+🟢 フェーズ0：事前準備（導電回路の構築）
+[EN] Action: 30–40 minutes before, consume mineral-rich salt and water.
+[JP] アクション: 実施の30〜40分前に、少量の「ミネラルを含んだ塩」と「水」を摂取してください。
+
+[EN] Why: Conductivity is essential for nerve signal transmission. If your body is mineral-deficient, the repair signals won't travel properly, and the maintenance will be ineffective.
+[JP] 理由: 体内で神経信号をスムーズに伝えるためには、電気を通すための「導電性（電気の通りやすさ）」が必要です。これがないと、信号がうまく伝わらず、メンテナンスの効果が半減してしまいます。
+
+🔥 Phase 1: Thermal Pulse (System Reset)
+🔥 フェーズ1：熱量パルス（高強度刺激）
+[EN] Action: Set the shower to 44°C–49°C. Apply to back, neck, and legs. Keep moving! Do not stay on one spot.
+[JP] アクション: シャワーの温度を 44〜49℃ に設定。背中、首、足に熱を当てます。一点に当てすぎず、常に動かし続けることが鉄則です。
+
+[EN] Why: At 44°C+, your cells produce "HSP" (Heat Shock Proteins), which repair damaged cellular machinery. This is the "start" signal for body repair.
+[JP] 理由: 44℃を超えると、細胞を修理するタンパク質「HSP（ヒートショックプロテイン）」が目覚めます。42℃は単なる温浴ですが、44℃以上は「身体修理開始の合図」になります。
+
+🧠 Phase 2: Neural Hack (Multi-threaded Process)
+🧠 フェーズ2：神経へのハック（マルチスレッド処理）
+Shower while doing these three things simultaneously:
+シャワー中に以下の3つを同時に実行してください：
+
+1. Ultra-Slow Scan (CT Fiber Hack)
+1. 超低速スキャン（CT線維ハック）
+[EN] Move the showerhead at 3–5 cm per second. This "agonizingly slow" speed triggers the release of oxytocin, a chemical that relaxes your brain.
+[JP] シャワーヘッドを 秒速3〜5cm という「もどかしいほどゆっくり」した速度で動かします。この刺激が、脳にリラックス物質（オキシトシン）を放出させる信号を送ります。
+
+2. 1/f Fluctuation (Unpredictability)
+2. 不規則なゆらぎ（1/fゆらぎ）
+[EN] Move the showerhead irregularly. Brains filter out repetitive patterns. By being unpredictable, you bypass the brain's defense system.
+[JP] 動きをあえて不規則にします。脳は同じリズムに慣れると「飽きて」フィルターをかけてしまいます。不規則に動くことで、脳の防御システムをすり抜け、究極のリラックス状態へ強制誘導します。
+
+3. Tongue Cleaning (Oral Reflex)
+3. 舌磨き（口腔反射リセット）
+[EN] Action: Gently clean your tongue with a soft towel or brush. Be extremely careful and gentle. Do not scrub hard, as the tongue surface cells (like taste buds) are very delicate. The goal is to stimulate, not to scrub away.
+[JP] アクション: 清潔なタオルや、非常に柔らかい歯ブラシを使い、舌の表面（舌苔）を「非常に優しく、丁寧になでるように」磨いてください。強くこすってはいけません。舌の表面（味蕾など）は非常に繊細な細胞なので、傷つけると炎症や味覚障害の原因になります。「汚れを落とす」というより「神経を優しく刺激する」つもりで行ってください。
+
+[EN] Why: The tongue is the entry point for digestion and connects directly to the Vagus Nerve (the key to the parasympathetic nervous system). Gentle stimulation resets this nerve, shifting your whole body into "rest mode."
+[JP] 理由: 舌は消化管の入り口であり、迷走神経（副交感神経の要）と直結する反射区です。優しく磨くことで迷走神経を刺激し、体全体をリラックスモードへ切り替えます。
+
+🔵 Phase 3: Post-Session (Homeostasis Recovery)
+🔵 フェーズ3：事後リカバリー（恒常性の回復）
+[EN] Action: Immediately after finishing, consume mineral-rich salt and water again.
+[JP] アクション: シャワー終了後、再び少量の「ミネラルを含んだ塩」と「水」を摂取します。
+
+[EN] Why: High-temperature protocols use up metabolic resources. Replenishing minerals and water immediately stabilizes the system and locks in the repair effects.
+[JP] 理由: 高温のシャワーは代謝を活発にするため、一時的に水分と電解質が消費されます。終了直後に補給することで、システムを安定させ、修復効果を体にしっかりと定着させるためです。
+
+⚠️ Safety Warnings / 安全のための注意点
+[EN] Burn Risk: 48°C–49°C is very hot. If you feel pain, STOP immediately. You are the sole administrator of your body.
+[JP] 火傷に注意: 48〜49度は非常に高温です。痛みや「熱すぎる！」と感じたら、即座に停止してください。あなたがシステムの管理者です。
+
+[EN] Consistency > Intensity: Gentleness and persistence are more effective than rough force.
+[JP] 丁寧さが命: 舌磨きもシャワーの動きも「力任せ」は厳禁です。丁寧な操作こそが、最大の効果を生みます。
+
+✅ Checklist / まとめ：チェックリスト
+[Pre] Did you ingest mineral salt and water 30 mins before?
+
+[事前] 30分前に塩と水を摂り、回路を導電させたか？
+
+[Thermal] Did you trigger the repair switch (HSP) at 44–49°C?
+2. [刺激] 44〜49℃の熱パルスで修復スイッチを入れたか？
+
+[Neural] Did you slow-scan + fluctuate to hack your brain?
+3. [神経] 秒速3〜5cmの超低速移動＋不規則なゆらぎで脳を緩めたか？
+
+[Oral] Did you gently clean your tongue to stimulate the Vagus Nerve?
+4. [口腔] 舌を優しく磨き、迷走神経を刺激したか？
+
+[Post] Did you ingest minerals + water after to lock it in?
+5. [事後] 終了後に塩と水を摂り、システムを安定させたか？
+
+
