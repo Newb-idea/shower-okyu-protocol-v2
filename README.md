@@ -1,3 +1,5 @@
+papatoldme1000@outlook.jp
+
 [![CI](https://github.com/Newb-idea/shower-okyu-protocol-v2/actions/workflows/blank.yml/badge.svg)](https://github.com/Newb-idea/shower-okyu-protocol-v2/actions/workflows/blank.yml)
 
 # shower-okyu-protocol-v2
