@@ -1787,3 +1787,34 @@ Shower while doing these three things simultaneously:
 5. [事後] 終了後に塩と水を摂り、システムを安定させたか？
 
 
+🔎 How to find your "Target Zone" in 3 Steps
+🔎 3ステップでわかる「ツボの探し方」
+Step 1: Search on Google
+Step 1: Googleで検索する
+[EN] Just type [Symptom] + Acupoint into Google.
+[JP] Googleの検索窓に「症状名 ＋ ツボ」と入力して検索してください。
+
+Example: Stiff neck acupoint or 首こり ツボ
+
+例： 「頭痛 ツボ」「腰痛 ツボ」「眼精疲労 ツボ」
+
+Step 2: Click the "Images" tab
+Step 2: 「画像」ボタンを押す
+[EN] Don't read the articles. Click the "Images" (画像) tab at the top.
+[JP] 記事を読む必要はありません。検索結果のトップにある「画像」というボタンを押してください。
+
+[EN] You will see many diagrams. Pick one that looks simple.
+[JP] たくさんの図が出てきます。一番シンプルでわかりやすそうな図を1つ選んでください。
+
+Step 3: Aim your shower at the "Area"
+Step 3: その「周辺」をシャワーで温める
+[EN] Crucial Rule: You don't need to hit the exact spot. Shower-Okyu is a "wide shower," not a needle. Aim for the general area shown in the picture.
+[JP] 大事なルール: 1点にこだわらなくていいです。シャワーお灸は「範囲攻撃」なので、図で指されている場所の「周辺」をシャワーで温めればOKです。
+
+If the image shows a dot: Aim your shower at that dot and the surrounding area.
+
+図の場所: 点で示されていても、その「点と、その周り」を温めるつもりで動かしてください。
+
+💡 Simple Rule / シンプルなコツ
+[EN] "Close enough is perfect." If you feel warm and it feels good, you are doing it right.
+[JP] 「だいたい合ってれば正解」です。 温かくて、気持ちいいなと感じたら、それが君にとっての正解です。難しいことは考えなくて大丈夫です。
