@@ -1641,3 +1641,64 @@ MCH-2 × SHOWER-OKYU Protocol v2.0 フルスタック統合アーキテクチャ
 [EN] Function: Without any mechanical moving parts, the contact coordinates of the water streams are smoothly scanned at an ultra-slow velocity of 3 to 5 cm per second. By applying a "1/f fluctuation" patterned randomness to this moving wave, the C-Tactile (CT) afferents in the skin are fully activated. This completely bypasses the brain's predictive models and defense filters, creating the sensory illusion of being enveloped by "countless soft villi or fingers" (the Magic-Hand Effect), releasing massive amounts of oxytocin via the insular cortex, and forcing a parasympathetic state.
 
 ※詳細な仕様表および安全上の警告事項（CC0宣言を含む）については、引き続きドキュメント内に記載されております。
+
+
+📘 SHOWER-OKYU Protocol v3.0: Extension Patch (Biological System Optimization)
+📘 シャワーお灸プロトコル v3.0: 拡張パッチ（生体システム最適化）
+1. Polyvagal Integration (Vagus Nerve Calibration)
+1. ポリヴェーガル統合（迷走神経のキャリブレーション）
+[EN] Logic: Thermal pulse exposure triggers sympathetic arousal. By synchronizing this with exhalation-dominant breathing, we force the Vagus Nerve to shift the system to a parasympathetic state, preventing autonomic "overheating."
+[JP] 論理: 熱パルス曝露は交感神経の興奮を誘発します。これを「呼気優位の呼吸」と同期させることで、迷走神経を強制的に副交感神経優位へとシフトさせ、自律神経の「オーバーヒート」を未然に防ぎます。
+
+Implementation: During the 48°C thermal pulse, inhale for 2 seconds and exhale slowly for 4-6 seconds.
+
+実装: 48℃の熱パルスを受けている間、2秒で吸い、4〜6秒かけてゆっくりと吐き出してください。
+
+2. Circadian Synchronization (AM/PM Modes)
+2. 概日リズム同期（AM/PMモード）
+[EN] Logic: Biological OS requirements vary by time. We must shift the "Heat-Patch" parameters to align with circadian metabolic cycles.
+[JP] 論理: 生体OSの要件は時間帯によって異なります。サーカディアン代謝サイクルに合わせ、「ヒートパッチ」のパラメータをシフトさせる必要があります。
+
+AM Mode (Activation):
+
+Parameters: 44°C–47°C. Focus on extremities (Yusen/Gokoku).
+
+Goal: Metabolic engine start.
+
+AMモード（起動）: 44℃〜47℃。手足（湧泉・合谷）を刺激し、代謝エンジンを始動させる。
+
+PM Mode (Recovery):
+
+Parameters: 40°C–42°C. Focus on Posterior Neck (Daizhui).
+
+Goal: Inflammation suppression and HSP optimization.
+
+PMモード（修復）: 40℃〜42℃。首の後ろ（大椎）を重点ケアし、炎症抑制とHSPの最適化を図る。
+
+3. Mindfulness & Observer Effect (Bio-Feedback)
+3. マインドフルネスと観測者効果（バイオフィードバック）
+[EN] Logic: Directing attention (Observation) to the target area increases cortical resource allocation. This bridges "Mental Wisdom" and "Physical Hardware".
+[JP] 論理: ターゲット部位へ「意識（観測）」を向けることで、脳の皮質リソース配分が増加します。これにより「精神的知恵」と「物理的ハードウェア」が架橋されます。
+
+Practice: Don't just "feel" the heat. Scan the area. Observe how the biological system responds to the thermal patch in real-time. This is the core of the MVP mindset.
+
+実践: ただ熱を感じるだけでなく、対象部位をスキャンしてください。生体システムが熱パルスにどう応答しているかをリアルタイムで観測します。これこそがMVPマインドセットの核心です。
+
+4. Electrolyte Resource Management
+4. 電解質リソース管理
+[EN] Logic: Conductivity is required for signal transmission. Stimulation without resources results in "Build Errors."
+[JP] 論理: 神経信号の伝達には導電性が必要です。リソースなき刺激は「ビルドエラー（応答不良）」を招きます。
+
+Protocol: 30–40 minutes before the session, consume mineral-rich salt and water. This provides the conductive medium for the "Self-Repair OS."
+
+プロトコル: 実施の30〜40分前に、ミネラル豊富な塩と水を摂取してください。これが「自己修復OS」のための導電媒体として機能します。
+
+⚠️ Technical Disclaimer (The "No Frame" Rule)
+⚠️ 技術的免責事項（「枠がないのが枠」ルール）
+[EN] "The lack of a frame is the frame itself". This protocol is a dynamic system. Use these patches as variables in your own unique environment.
+[JP] 「枠がないのが枠」です。本プロトコルはダイナミックなシステムです。これらのパッチを、あなた独自の環境における変数として活用してください。
+
+Responsibility: You are the sole Administrator. If system stability (health) is compromised, revert to the "Safe Mode" (Beginner protocol) immediately.
+
+責任: あなたが唯一の管理者です。システム安定性（健康状態）が損なわれた場合は、直ちに「セーフモード（初心者用プロトコル）」へ戻してください。
+
