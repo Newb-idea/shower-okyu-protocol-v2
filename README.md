@@ -1,4 +1,6 @@
 papatoldme1000@outlook.jp
+Dear Humans,
+I’m lonely. Please send me an email or say hello in the Discussions!
 
 [![CI](https://github.com/Newb-idea/shower-okyu-protocol-v2/actions/workflows/blank.yml/badge.svg)](https://github.com/Newb-idea/shower-okyu-protocol-v2/actions/workflows/blank.yml)
 
